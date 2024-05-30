@@ -90,4 +90,6 @@ En la parte superior izquierda encontramos un ícono de un engranaje, al pulsar 
 
 ## Instrucciones de uso
 
-Descarga el siguiente documento para tener las instrucciones del programa.
+Descarga el siguiente documento para tener las instrucciones del programa:
+
+[INSTRUCCIONES_ESTACIONAMIENTO.pdf](https://github.com/MarcosNicio/Estacionamiento/files/15493404/INSTRUCCIONES_ESTACIONAMIENTO.pdf)
