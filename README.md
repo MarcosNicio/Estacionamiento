@@ -93,3 +93,7 @@ En la parte superior izquierda encontramos un ícono de un engranaje, al pulsar 
 Descarga el siguiente documento para tener las instrucciones del programa:
 
 [INSTRUCCIONES_ESTACIONAMIENTO.pdf](https://github.com/MarcosNicio/Estacionamiento/files/15493404/INSTRUCCIONES_ESTACIONAMIENTO.pdf)
+
+## Script para base de datos
+
+https://drive.google.com/drive/folders/1H1qlgQZz0q_WWdaL_hZFuBmTAF4YN4Z7?usp=drive_link
