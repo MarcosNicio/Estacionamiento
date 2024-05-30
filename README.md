@@ -90,6 +90,8 @@ En la parte superior izquierda encontramos un ícono de un engranaje, al pulsar 
 
 ## Instrucciones de uso
 
+NOTA: Despues de descargar el proyecto, en la carpeta lib, tendras que extraer la carpeta "opencv_java490" para que funcione el programa.
+
 Descarga el siguiente documento para tener las instrucciones del programa:
 
 [INSTRUCCIONES_ESTACIONAMIENTO.pdf](https://github.com/MarcosNicio/Estacionamiento/files/15493404/INSTRUCCIONES_ESTACIONAMIENTO.pdf)
@@ -97,3 +99,5 @@ Descarga el siguiente documento para tener las instrucciones del programa:
 ## Script para base de datos
 
 https://drive.google.com/drive/folders/1H1qlgQZz0q_WWdaL_hZFuBmTAF4YN4Z7?usp=drive_link
+
+
